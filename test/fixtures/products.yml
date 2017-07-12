@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_id: 
+  size_id: 
+  category_id: 
+
+two:
+  type_id: 
+  size_id: 
+  category_id: 

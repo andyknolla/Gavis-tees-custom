@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cust_name: MyString
+  cust_email: MyString
+  fulfilled: false
+  submitted: false
+
+two:
+  cust_name: MyString
+  cust_email: MyString
+  fulfilled: false
+  submitted: false
